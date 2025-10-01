@@ -49,6 +49,7 @@ plt.ylabel('Feature 2')
 plt.title('Logistic Regression (SGDClassifier) Decision Boundary')
 plt.legend()
 plt.show()
+
 ```
 
 ## Output:
